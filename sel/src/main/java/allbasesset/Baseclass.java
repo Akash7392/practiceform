@@ -40,6 +40,7 @@ public void launchwebdriver()
 	b.manage().deleteAllCookies();
 	b.manage().window().maximize();
 	b.manage().timeouts().implicitlyWait(2,TimeUnit.SECONDS);
+	System.out.println("check git connect disconnect");
 	
 	
 }

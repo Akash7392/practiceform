@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="testNG_sel_app_form.Test_sel_app_form">
+        <methods>
+          <include name="gettitle"/>
+          <include name="quitingbrowser"/>
+          <include name="Continents_dropdown"/>
+          <include name="check_radio_button_male"/>
+          <include name="check_radio_exp_button"/>
+          <include name="prof_check_b0x"/>
+          <include name="Enter_first_FirstName_lastname"/>
+          <include name="click_on_selnoum_menu"/>
+          <include name="check_radio_button_female"/>
+          <include name="launching_webbrowser"/>
+          <include name="date"/>
+        </methods>
+      </class> <!-- testNG_sel_app_form.Test_sel_app_form -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

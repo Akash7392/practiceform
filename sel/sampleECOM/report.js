@@ -127,14 +127,14 @@ formatter.match({
   "location": "Demostepdef.navigate_to_site()"
 });
 formatter.result({
-  "duration": 29699728013,
+  "duration": 15944645926,
   "status": "passed"
 });
 formatter.match({
   "location": "Demostepdef.click_on_sign_in_button()"
 });
 formatter.result({
-  "duration": 3632559388,
+  "duration": 2447384560,
   "status": "passed"
 });
 formatter.match({
@@ -147,7 +147,7 @@ formatter.match({
   "location": "Demostepdef.enter_email_address(String)"
 });
 formatter.result({
-  "duration": 459932668,
+  "duration": 521721697,
   "status": "passed"
 });
 formatter.match({
@@ -160,28 +160,28 @@ formatter.match({
   "location": "Demostepdef.enter_security_password(String)"
 });
 formatter.result({
-  "duration": 227561837,
+  "duration": 215495399,
   "status": "passed"
 });
 formatter.match({
   "location": "Demostepdef.click_on_sgin_in_button_again()"
 });
 formatter.result({
-  "duration": 2186483100,
+  "duration": 1364847199,
   "status": "passed"
 });
 formatter.match({
   "location": "Demostepdef.display_the_message()"
 });
 formatter.result({
-  "duration": 1997108,
+  "duration": 131598,
   "status": "passed"
 });
 formatter.match({
   "location": "Demostepdef.quit_the_only_browser()"
 });
 formatter.result({
-  "duration": 761204496,
+  "duration": 920310510,
   "status": "passed"
 });
 });

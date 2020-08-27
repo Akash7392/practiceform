@@ -53,7 +53,7 @@
     <groupId>junit</groupId>
     <artifactId>junit</artifactId>
     <version>4.13</version>
-    <scope>test</scope>
+  
 </dependency>
 
 
@@ -154,12 +154,7 @@
     <type>pom</type>
 </dependency>
 
-<dependency>
-    <groupId>junit</groupId>
-    <artifactId>junit</artifactId>
-    <version>4.13</version>
-    <scope>test</scope>
-</dependency>
+
 
 
 <!-- https://mvnrepository.com/artifact/info.cukes/cucumber-jvm-deps -->

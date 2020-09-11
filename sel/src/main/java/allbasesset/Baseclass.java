@@ -18,6 +18,7 @@ public class Baseclass  {
 	
 public	Properties p;
 public WebDriver b;
+	int i;
 	
 	
 	
